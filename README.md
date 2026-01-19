@@ -160,5 +160,5 @@ Developed by [Weverson Barbieri de Oliveira](https://github.com/weversonbarbieri
 ## License
 MIT
 
----
+--
 **Note**: This application is for internal company use only and provides quick access to vehicle anti-theft system information and key learning procedures. The standalone executable ensures deployment flexibility across different system configurations without requiring Python installation.
