@@ -156,7 +156,6 @@ The final executable includes:
 
 ## Author
 Developed by [Weverson Barbieri de Oliveira](https://github.com/weversonbarbieri)
-E-mail: weverson.b@mintt.com 
 
 ## License
 MIT
