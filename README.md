@@ -23,12 +23,6 @@ This project is an extension of [vehicle_security_system_data_cleaning](https://
 - Standalone executable for systems without Python or dependencies
 - Complete distribution package with all required files
 
-## 🎥 Application Demonstration
-
-See the application in action in the video below:
-
-[![Immobilizer Assistant Demo](https://img.shields.io/badge/🎬-View%20Demo-blue?style=for-the-badge)](https://vimeo.com/1121684000?share=copy)
-
 *The video demonstrates:*
 - Main application interface
 - Manufacturer, year, and model selection
@@ -113,8 +107,6 @@ Immo_Assist_App/
 └── requirements.txt              # Python dependencies
 ```
 
-## Data Source
-The application uses cleaned and structured data from the [vehicle security system data cleaning project](https://github.com/hydra-code-repository/vehicle_security_system_data_cleaning), which processed the original dataset into manufacturer-specific CSV files and organized PDF procedures.
 
 ## Build Instructions
 
